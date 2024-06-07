@@ -1,0 +1,27 @@
+html{
+    background-color: rgb(230, 252, 208);
+}
+
+div {
+    text-align: center;
+    top: 10px;
+    padding: 60px;
+    margin: auto;
+    width: 400px;
+    background-color: white;
+    position: relative;
+}
+
+button {
+    padding: 1cm;
+    font-family: cursive;
+    font-size: large;
+}
+h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input {
+    padding: 15px;
+    font-size: medium;
+}
